@@ -1,6 +1,0 @@
----
-icon: fill-drip
----
-
-# Page
-
